@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/interactive-rating-component-solution-html-css-flexbox-js-PfqHqrczGP
+- Live Site URL: https://leon2610.github.io/interactive-rating-component-solution/
 
 ## My process
 
